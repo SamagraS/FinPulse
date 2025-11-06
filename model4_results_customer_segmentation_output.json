@@ -1,0 +1,38 @@
+[
+  {
+    "dataset_name": "Customer Segmentation Output",
+    "primary_constraint": {
+      "type": "DOCUMENTATION",
+      "severity": 0.641,
+      "confidence": 0.9,
+      "impact_potential": 0.641,
+      "systemic_component": 0.49000000000000005,
+      "behavioral_component": 0.84,
+      "customer_component": 0.72
+    },
+    "secondary_constraints": [
+      {
+        "type": "AWARENESS",
+        "severity": 0.45618910990945805,
+        "likelihood_of_emergence": 0.5474269318913496
+      },
+      {
+        "type": "ACCESSIBILITY",
+        "severity": 0.43466666666666665,
+        "likelihood_of_emergence": 0.5216
+      }
+    ],
+    "customer_insights": {
+      "channel_preference_digital_ratio": 0.53,
+      "rural_customer_ratio": 0.0,
+      "low_digital_literacy_ratio": 0.44,
+      "high_trust_requirement_ratio": 0.47,
+      "high_doc_support_ratio": 1.0,
+      "relationship_building_essential_ratio": 0.47,
+      "field_visit_preference_ratio": 0.47,
+      "product_openness_score": 0.566,
+      "avg_segment_confidence": 0.8691089009054201,
+      "digital_channel_preference_ratio": 0.53
+    }
+  }
+]

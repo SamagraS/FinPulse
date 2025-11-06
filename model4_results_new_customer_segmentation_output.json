@@ -1,0 +1,38 @@
+[
+  {
+    "dataset_name": "New Customer Segmentation Output",
+    "primary_constraint": {
+      "type": "AWARENESS",
+      "severity": 0.574,
+      "confidence": 0.9,
+      "impact_potential": 0.9184,
+      "systemic_component": 0.5449999999999999,
+      "behavioral_component": 0.505,
+      "customer_component": 0.75
+    },
+    "secondary_constraints": [
+      {
+        "type": "ACCESSIBILITY",
+        "severity": 0.3375,
+        "likelihood_of_emergence": 0.405
+      },
+      {
+        "type": "DOCUMENTATION",
+        "severity": 0.3347916666666666,
+        "likelihood_of_emergence": 0.4017499999999999
+      }
+    ],
+    "customer_insights": {
+      "channel_preference_digital_ratio": 0.0,
+      "rural_customer_ratio": 0.0,
+      "low_digital_literacy_ratio": 0.0,
+      "high_trust_requirement_ratio": 0.0,
+      "high_doc_support_ratio": 0.0,
+      "relationship_building_essential_ratio": 0.0,
+      "field_visit_preference_ratio": 0.0,
+      "product_openness_score": 0.5,
+      "avg_segment_confidence": 0.5,
+      "digital_channel_preference_ratio": 0.0
+    }
+  }
+]

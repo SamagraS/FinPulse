@@ -1,0 +1,30 @@
+  {
+    "customer": {
+      "name": "Ram Varma",
+      "archetype": "Progressive Farmer - Wheat Belt",
+      "literacy": "Primary",
+      "preferred_language": "English",
+      "communication_style": "informal"
+    },
+    "product": {
+      "recommendation": "Crop Loan for Rabi season",
+      "amount": 50000
+    },
+    "constraints": {
+      "primary": "Awareness gap",
+      "secondary": "Documentation concern",
+      "mitigation": "Simple explanation with officer support"
+    },
+    "culture": {
+      "region": "Uttar Pradesh wheat belt",
+      "season": "Pre-Rabi (October-November)",
+      "upcoming_festival": "Diwali",
+      "local_crop": "Wheat",
+      "regional_terms": {
+        "loan": "Karj"
+      }
+    },
+    "banking_scheme": {
+      "name": "Mudra Loan"
+    }
+  }
